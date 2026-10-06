@@ -1,0 +1,18 @@
+[0m[[0m[0mdebug[0m] [0m[0mjavaOptions: Vector(--add-exports=java.base/sun.nio.ch=ALL-UNNAMED, --add-opens=java.base/sun.nio.ch=ALL-UNNAMED)[0m
+[0m[[0m[0mdebug[0m] [0m[0mForking tests - parallelism = true, threads = auto[0m
+[0m[[0m[0mdebug[0m] [0m[0mCreate a test executor with a thread pool of 16 threads.[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunner for org.scalatest.tools.Framework produced 1 initial tasks for 1 tests.[0m
+[0m[[0m[0mdebug[0m] [0m[0m  Running TaskDef(com.day14payroll.EmployeePayrollTest, sbt.internal.worker1.ForkTestMain$SubclassFingerscan@69b0fd6f, false, [SuiteSelector])[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mEmployeePayrollTest:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- DataFrame should load 8 employees[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- DataFrame should convert to Dataset[Employee][0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Engineering department should contain 4 employees[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- E101 payroll calculation should be correct[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0m    Produced 0 nested tasks and 4 events.[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mRun completed in 10 seconds, 896 milliseconds.[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTotal number of tests run: 4[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mSuites: completed 1, aborted 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTests: succeeded 4, failed 0, canceled 0, ignored 0, pending 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mAll tests passed.[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0mPassed tests:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com.day14payroll.EmployeePayrollTest[0m

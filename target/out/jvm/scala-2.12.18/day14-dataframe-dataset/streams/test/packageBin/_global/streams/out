@@ -1,0 +1,10 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /home/prudhvi/Day14-DataFrame-Dataset/target/out/jvm/scala-2.12.18/day14-dataframe-dataset/day14-dataframe-dataset_2.12-1.0-tests.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/day14payroll/EmployeePayrollTest$$typecreator10$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/prudhvi/Day14-DataFrame-Dataset/target/out/jvm/scala-2.12.18/day14-dataframe-dataset/test-classes/com/day14payroll/EmployeePayrollTest$$typecreator10$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/day14payroll/EmployeePayrollTest$$typecreator5$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/prudhvi/Day14-DataFrame-Dataset/target/out/jvm/scala-2.12.18/day14-dataframe-dataset/test-classes/com/day14payroll/EmployeePayrollTest$$typecreator5$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/day14payroll/EmployeePayrollTest.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/prudhvi/Day14-DataFrame-Dataset/target/out/jvm/scala-2.12.18/day14-dataframe-dataset/test-classes/com/day14payroll/EmployeePayrollTest.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
+[0m[[0m[0mdebug[0m] [0m[0mwrote ${OUT}/jvm/scala-2.12.18/day14-dataframe-dataset/day14-dataframe-dataset_2.12-1.0-tests.jar[0m
